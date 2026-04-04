@@ -1,17 +1,9 @@
-This is your group repo for your final project for COGS108.
+This repository used to be the group repo for my final project for COGS108: Data Science in Practice Winter 2026 with Prof. Jason Flieser.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+Template notebooks for each component of the final project were provided. I used this repo to develop a more ML-based project with similar technical skills and data science theories/concepts I learned from acing the class. My intent is to repurpose this repo and its template Python notebooks (e.g., .ipynb files) to construct a different data science project addressing a question that revolves around the practice of Hydroponics in Vertical farming and sustainable agriculture.
 
-Template notebooks for each component are provided. The numbers on the notebook filenames provides the order things are due.  See the syllabus for the due dates in your quarter.
+Ultimately, the underlying goal, and my personal motivation for doing this is to develop my prowess as a programmer. Specifically through implementing ML/AI methods to report on my personal website and resume for recruiters; and hopefully someday help my entrepreneurial girlfriend Brianna with her endeavor to integrate robotics and AI into a hydroponics company she intends to own, intended to optimize sustainable vertical farms in an automated manner.
 
-You will be graded based solely on the numbered Jupyter notebooks in this repository.  You will recieve your grade and feedback on how to improve via GitHub Issues on this repository. 
-
-We have created a suggested organization for your repo, including directory structures for storing `./data`, `./results`, and for creating `./modules` that your notebooks can import. 
-
-Its worth noting that `./data` is for storing local copies of the data, but by default this repo is configured to **not** allow you to store common datafiles in GitHub.  This is because GitHub has low limits on maximum file and repo size.  So instead you would download your data direct from its original provider or from your personal cloud storage. There are scripts inside some of the notebooks to download data from any URL to `./data`.  If you wish to remove this limitation and store small data files directly in your GitHub you should edit your `.gitignore` file.
-
-But this is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files anywhere you want, etc. So long as there are the four numbered Jupyter notebooks in place on the due dates with the required information, the rest is up to you. 
-
-At the final project date there is an option to make your final project visible to others.  If you choose this option your repo will become publicly visible. 
+It's worth noting that `./data` is for storing local copies of the data, but by default this repo is configured to **not** allow you to store common datafiles in GitHub.  This is because GitHub has low limits on maximum file and repo size.  So instead you would download your data directly from its original provider or from your personal cloud storage. There are scripts inside some of the notebooks to download data from any URL to `./data`.  If you wish to remove this limitation and store small data files directly in your GitHub you should edit your `.gitignore` file.
 
 Also, you are encouraged to share this project after the course and to add it to your portfolio. If your repo is public you may fork it. If it is private you may follow [these instructions](https://docs.google.com/document/d/1_PP-vlsyWjNegGGsmeDB5B-ltjYW1Db14q9dx3HM9e4/edit?usp=sharing)
