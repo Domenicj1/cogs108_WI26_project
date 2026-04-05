@@ -1,4 +1,4 @@
-This repository used to be the group repo for my final project for COGS108: Data Science in Practice Winter 2026 with Prof. Jason Flieser.
+This repository used to be the group repo for my final project for COGS108: *Data Science in Practice* Winter 2026 with Prof. Jason Flieser.
 
 Template notebooks for each component of the final project were provided. I used this repo to develop a more ML-based project with similar technical skills and data science theories/concepts I learned from acing the class. My intent is to repurpose this repo and its template Python notebooks (e.g., .ipynb files) to construct a different data science project addressing a question that revolves around the practice of Hydroponics in Vertical farming and sustainable agriculture.
 
